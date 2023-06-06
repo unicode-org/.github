@@ -1,5 +1,5 @@
-# template-repo
-Template Repository for Unicode projects
+# .github
+This repository exists to provide community health files for the `unicode-org` github organization.
 
 # LICENSE
 
