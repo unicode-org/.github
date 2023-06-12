@@ -1,5 +1,5 @@
 # .github
-This repository exists to provide community health files for the `unicode-org` github organization.
+This here repository exists to provide community health files for the `unicode-org` github organization.
 
 # LICENSE
 
