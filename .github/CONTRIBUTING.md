@@ -10,8 +10,6 @@ In order to contribute to this project, the Unicode Consortium must have on file
 
 Unless otherwise noted in the LICENSE file, this project is released under the free and open-source [Unicode License][unicode-license], also known as Unicode, Inc. License Agreement - Data Files and Software.
 
-SPDX-License-Identifier: Unicode-DFS-2016
-
 
 [policies]: https://www.unicode.org/policies/licensing_policy.html
 [unicode-corporate-clas]: https://www.unicode.org/policies/corporate-cla-list/
