@@ -1,8 +1,8 @@
-# Contributing to this project
+# Contributing to a Unicode Consortium repository
 
 ## Contributor License Agreement
 
-In order to contribute to this project, the Unicode Consortium must have on file a Contributor License Agreement (CLA) covering your contributions, either an individual or a corporate CLA. Pull Requests, issues, and other contributions will not be merged/accepted until the correct CLA is signed. Which version needs to be signed depends on who owns the contribution being made: you as the individual making the contribution or your employer. **It is your responsibility to determine whether your contribution is owned by your employer.** Please review the [Unicode Intellectual Property, Licensing, & Technical Contribution Policy][policies] for further guidance on which CLA to sign, as well as other information and guidelines regarding the Consortium’s licensing and technical contribution policies and procedures.
+In order to contribute to a Unicode Consortium repository, the Unicode Consortium must have on file a Contributor License Agreement (CLA) covering your contributions, either an individual or a corporate CLA. Pull Requests, issues, and other contributions will not be merged/accepted until the correct CLA is signed. Which version needs to be signed depends on who owns the contribution being made: you as the individual making the contribution or your employer. **It is your responsibility to determine whether your contribution is owned by your employer.** Please review the [Unicode Intellectual Property, Licensing, & Technical Contribution Policy][policies] for further guidance on which CLA to sign, as well as other information and guidelines regarding the Consortium’s licensing and technical contribution policies and procedures.
 
 To sign the CLA in Github, open a Pull Request (a comment will be automatically added with a link to the CLA Form), or go directly to [the CLA Form][sign-cla]. You may need to sign in to Github to see the entire CLA Form.
 
